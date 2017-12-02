@@ -1,0 +1,23 @@
+{
+  "name": "db-version",
+  "version": "0.1.0",
+  "description": "Retrieves the current schema version number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/db-version.git"
+  },
+  "keywords": [
+    "db",
+    "task"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/db-version/issues"
+  },
+  "homepage": "https://github.com/wurde/db-version#readme"
+}

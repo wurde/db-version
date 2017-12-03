@@ -25,6 +25,10 @@
     "db",
     "task"
   ],
+  "os": ["darwin", "linux"],
+  "engines": {
+    "node": ">= 8"
+  },
   "author": "Andy Bettisworth <andy@accreu.com>",
   "license": "MIT",
   "bugs": {

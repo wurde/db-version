@@ -13,6 +13,14 @@
   "bin": {
     "db_version": "./index.js"
   },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE.txt",
+    "CHANGELOG.md",
+    "index.js",
+    "test.js"
+  ],
   "keywords": [
     "db",
     "task"

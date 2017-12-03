@@ -12,13 +12,14 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-* 5 minor enhancements:
+* 6 minor enhancements:
 
   * Add as binary db_create
   * Link maintainer, license, and changelog
   * Spec files in package.json
   * Spec os and node engine in package.json
   * deps: add mocha
+  * readme: Add 'Getting Started' and 'Limitations'
 
 ## 2017-12-01, Version 0.1.0
 

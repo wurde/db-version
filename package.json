@@ -1,6 +1,6 @@
 {
   "name": "db-version",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Retrieves the current schema version number.",
   "main": "index.js",
   "scripts": {

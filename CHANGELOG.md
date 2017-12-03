@@ -12,6 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+* 1 major enhancement:
+
+  * Add task
+
 * 6 minor enhancements:
 
   * Add as binary db_create
